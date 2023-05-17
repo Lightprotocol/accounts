@@ -1,2 +1,3 @@
-# accounts
-Accounts used in test validatory
+# Accounts 
+
+Accounts used in Solana test validators used by Light Protocol.
